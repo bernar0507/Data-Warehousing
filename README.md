@@ -7,6 +7,7 @@ The project is divided into 3 parts.
 The 1st part was about designing Bus matrix and priority matrix.
 The 2nd part was about the ETL process.
 The 3rd part was about analysis services.
+The zip file has all the project inside, including the report of the project.
 
 # What I've learned?
 With this project developed in the curricular unit "DataWarehouse" during my "Bioinformatics" degree, I've acquired basic about Microsoft 
