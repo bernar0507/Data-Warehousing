@@ -2,7 +2,7 @@
 Project of Data Warehousing
 
 # What is this?
-This is a repository with a project developed in the curricular unit "DataWarehouse" during my "Bioinformatics" degree.
+This is a repository with a project developed in the curricular unit Data Warehousing during my Bioinformatics degree.
 The project is divided into 3 parts. 
 The 1st part was about designing Bus matrix and priority matrix.
 The 2nd part was about the ETL process.
