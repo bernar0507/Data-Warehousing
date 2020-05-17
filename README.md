@@ -1,5 +1,5 @@
-# DataWarehouse
-project of datawarehouse
+# Data Warehousing
+Project of Data Warehousing
 
 # What is this?
 This is a repository with a project developed in the curricular unit "DataWarehouse" during my "Bioinformatics" degree.
