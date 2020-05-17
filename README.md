@@ -1,6 +1,3 @@
-# Data Warehousing
-Project of Data Warehousing
-
 # What is this?
 This is a repository with a project developed in the curricular unit Data Warehousing during my Bioinformatics degree.
 The project is divided into 3 parts. 
